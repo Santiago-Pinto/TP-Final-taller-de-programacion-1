@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TPGrupal"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TPGrupal">
+				<Option output="/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/TPGrupal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 TPGrupal"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TPGrupal/fast">
+				<Option output="/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/TPGrupal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 TPGrupal/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sebastian/CLionProjects/TPGrupal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientCommunicator.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientCommunicator.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientInterpreter.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientInterpreter.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientMain.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientPlayer.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientPlayer.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyGame.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyGame.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyMunition.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyMunition.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyNode.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyNode.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyObject.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyObject.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyTerritories.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyTerritories.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyUnit.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/clientProxyUnit.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Ammo.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Ammo.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_BigExplosion.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_BigExplosion.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Building.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Building.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_BuildingInterface.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_BuildingInterface.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_BulletAmmo.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_BulletAmmo.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Button.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Button.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Camera.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Camera.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_ConcreteBridge.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_ConcreteBridge.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateGruntButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateGruntButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateHeavyTankButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateHeavyTankButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateJeepButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateJeepButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateLaserButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateLaserButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateLightTankButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateLightTankButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateMMLButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateMMLButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateMediumTankButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateMediumTankButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreatePsychoButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreatePsychoButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreatePyroButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreatePyroButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateSniperButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateSniperButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateToughButton.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_CreateToughButton.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_DieAction.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_DieAction.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_DustTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_DustTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Explosion.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Explosion.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Flag.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Flag.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Fort.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Fort.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_FortInterface.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_FortInterface.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Frame.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Frame.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_GameObject.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_GameObject.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_GrassTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_GrassTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Grunt.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Grunt.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_HeavyTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_HeavyTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_HighCaliberAmmo.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_HighCaliberAmmo.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_HighWayTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_HighWayTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_IceBlock.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_IceBlock.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Jeep.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Jeep.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_KeyboardEventHandler.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_KeyboardEventHandler.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Laser.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Laser.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LaserAmmo.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LaserAmmo.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LavaTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LavaTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LightTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LightTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LittleExplosion.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_LittleExplosion.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MML.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MML.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Map.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Map.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MediumTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MediumTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MissileAmmo.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MissileAmmo.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MouseEventHandler.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_MouseEventHandler.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_OutcomeWindow.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_OutcomeWindow.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Psycho.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Psycho.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Pyro.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Pyro.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_PyroAmmo.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_PyroAmmo.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_RFactory.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_RFactory.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_RFactoryInterface.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_RFactoryInterface.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_RoadAsphaltTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_RoadAsphaltTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Robot.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Robot.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Rock.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Rock.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_ShootAction.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_ShootAction.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Sniper.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Sniper.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_SnowTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_SnowTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_StandStillAction.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_StandStillAction.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_SwampTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_SwampTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_TerrainObject.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_TerrainObject.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Territory.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Territory.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Tile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Tile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Tough.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Tough.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Unit.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Unit.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_UnitAction.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_UnitAction.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_VFactory.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_VFactory.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_VFactoryInterface.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_VFactoryInterface.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Vehicle.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_Vehicle.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_WalkAction.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_WalkAction.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_WaterTile.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_WaterTile.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_WoodBridge.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/client_WoodBridge.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonDicc.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonException.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonException.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonHeap.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonLock.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonLock.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonParser.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonParser.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonQueue.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonSocket.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonSocket.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonThreads.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/commonThreads.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/server.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/server.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverArmament.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverArmament.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverArmamentLaser.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverArmamentLaser.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverAsphaltRoad.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverAsphaltRoad.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverBridges.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverBridges.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverBuildings.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverBuildings.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverBullets.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverBullets.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverConcreteBridge.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverConcreteBridge.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverDust.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverDust.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverEarthPrairieSnow.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverEarthPrairieSnow.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverFlag.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverFlag.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverFlamethrower.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverFlamethrower.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverFort.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverFort.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverGame.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverGame.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverGlobal.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverGrass.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverGrass.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverGrunt.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverGrunt.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverHeavyTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverHeavyTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverHighCaliberProjectiles.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverHighCaliberProjectiles.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverIceBlock.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverIceBlock.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverInterpreter.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverInterpreter.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverJeep.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverJeep.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverLava.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverLava.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverLightTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverLightTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMML.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMML.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMain.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMap.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMap.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMediumTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMediumTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMissiles.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverMissiles.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverNode.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverNode.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverNodePath.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverNodePath.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverObject.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverObject.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverPlayer.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverPlayer.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverProxyClient.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverProxyClient.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverPsycho.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverPsycho.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverPyro.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverPyro.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRoad.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRoad.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRoadAsphaltRoad.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRoadAsphaltRoad.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRobot.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRobot.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRobotFactorie.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRobotFactorie.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRobotLaser.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverRobotLaser.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSettings.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSettings.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSniper.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSniper.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSnow.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSnow.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSolids.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSolids.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverState.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverState.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateAttack.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateAttack.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateAttackingObject.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateAttackingObject.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateAttackingUnit.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateAttackingUnit.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateBroken.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateBroken.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateDead.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateDead.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateMoving.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateMoving.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateStill.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStateStill.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStone.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverStone.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSwamp.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverSwamp.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTask.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTask.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskAttackObject.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskAttackObject.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskAttackUnit.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskAttackUnit.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateGrunt.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateGrunt.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateHeavyTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateHeavyTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateJeep.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateJeep.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateLaser.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateLaser.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateLightTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateLightTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateMML.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateMML.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateMediumTank.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateMediumTank.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreatePsycho.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreatePsycho.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreatePyro.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreatePyro.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateSniper.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateSniper.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateTough.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskCreateTough.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskMove.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskMove.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskMoveMunition.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskMoveMunition.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskShoot.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskShoot.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskShootObject.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskShootObject.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskShootUnit.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTaskShootUnit.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTeam.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTeam.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTerritories.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTerritories.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTough.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverTough.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverUnit.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverUnit.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverVehicle.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverVehicle.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverVehicleFactorie.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverVehicleFactorie.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverWater.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverWater.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverWaterSwamp.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverWaterSwamp.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverWoodenBridge.cpp">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/serverWoodenBridge.h">
+			<Option target="TPGrupal"/>
+		</Unit>
+		<Unit filename="/home/sebastian/CLionProjects/TPGrupal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
